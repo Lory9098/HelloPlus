@@ -1,0 +1,8 @@
+name: HelloPlus
+version: '${project.version}'
+main: me.distruzionee.helloplus.Main
+api-version: 1.19
+commands:
+  test:
+    description: A test command!
+    usage: /<command>

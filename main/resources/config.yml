@@ -1,0 +1,13 @@
+#Ciao!
+#Grazie per aver scaricato Hello+, il mio primo plugin mai pubblicato, in arrivo molti altri, per supporto scrivermi su discord, Smo#8902
+#Mi ricorderò di te quando sarò famoso
+
+#ATTENZIONE: NEI MESSAGGI NON VA SCRITTO NULLA RIGUARDANTE IL PLAYER, IL NICK VERRÀ AUTOMATICAMENTE INSERITO ALLA FINE
+
+public-message: "&f[&2+&f]"
+exit-public-message: "&f[&4-&f]"
+
+#True = si, False = no
+
+enable-private-message: true
+private-message: "Benvenuto all'interno del server!"
